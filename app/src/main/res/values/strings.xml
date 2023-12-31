@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">READOTP</string>
+
+    <string-array name="itemon">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Bangla</item>
+        <item>Urdu</item>
+
+    </string-array>
+    <string-array name="numbers">
+        <item>+91</item>
+        <item>+92</item>
+        <item>+93</item>
+        <item>+94</item>
+
+    </string-array>
+</resources>

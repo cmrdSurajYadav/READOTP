@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079791750557",
+    "project_id": "readotp-3024c",
+    "storage_bucket": "readotp-3024c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079791750557:android:20fe4ba6995c927e3db374",
+        "android_client_info": {
+          "package_name": "com.example.readotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8NENNSPEx_JjaNiTSN7ofLfUAr7R-GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
